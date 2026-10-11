@@ -1,7 +1,3 @@
-# SWIFT 复现代码
-
-本仓库保存论文 **SWIFT: Spatial-Window Integrated Frequency-Aware Token Pruning for Efficient MLLMs on Edge Devices** 的复现代码，主要包括：
-
 - Qwen2.5-VL 与 LLaVA 的 SWIFT/FastDC 推理实现；
 - LMMS-Eval 测评代码；
 - FastV 对照实验；

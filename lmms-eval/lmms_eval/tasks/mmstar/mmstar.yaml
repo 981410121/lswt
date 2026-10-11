@@ -1,0 +1,6 @@
+dataset_path: /root/final_paper/datasets/Lin-Chen___mm_star
+task: "mmstar"
+doc_to_visual: !function utils.mmstar_doc_to_visual
+doc_to_text: !function utils.mmstar_doc_to_text
+process_results: !function utils.mmstar_process_results
+include: _default_template_yaml
